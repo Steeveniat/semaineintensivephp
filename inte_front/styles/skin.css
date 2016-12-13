@@ -1,0 +1,175 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-color: #000B38;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+	}
+
+
+main {
+	background-color: #000829;
+	width: 966px;
+	margin: 0 15% 0 15%;
+	height: 1000px;
+}
+
+header {
+ height: 135px;
+
+}
+
+.bar {
+	/*width: 90%;*/
+	width: 880px;
+	margin: 0 5% 0 5%;
+}
+
+
+
+h1 { margin: 0;
+	display: inline-block;
+}
+a {
+	text-decoration: none;
+}
+
+.logo {
+	position: relative;
+	top: 20px;
+	left: 20px;
+
+}
+
+.navbar-top, .navbar-bot {
+	display: inline-block;
+	float: right;
+
+	
+}
+.navbar-top {
+	color: #000829;
+	margin-top: 10px;
+	background: url('../img-layouts/nav.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.navbar-bot {
+	margin-top: 10px;
+}
+
+.navbar-ul-top {
+	margin: 0;
+}
+
+.navbar-li-bot, .navbar-li-top {
+	font-size: 20px;
+	display: inline-block;
+
+
+}
+
+.navbar-li-top {
+	padding: 16px 0 16px 0;
+	height: 100%;
+	display: inline-block;
+	margin-left: 60px;
+}
+
+
+.navbar-li-bot {
+	margin-left: 65px;
+	color: #fff;
+}
+.navbar-a-top {
+	padding: 16px 10px 17px 10px;
+}
+
+
+.navbar-a-top:hover {
+	background-color: #000829;
+	color: #fff;
+}
+.navbar-a-top:visited {
+	color: #000829;
+}
+.navbar-a-top:visited:hover {
+	color: #fff;
+}
+
+.navbar-a-bot:hover {
+	color: #f25923;
+}
+
+.navbar-a-bot:visited {
+	color: #fff;
+}
+.navbar-a-bot:visited:hover {
+	color: #f25923;
+}
+.navbar-li-bot:last-child, .navbar-li-top:last-child  {
+	margin-right: 30px;
+}
+
+hr {
+	width: 880px;
+	margin: 0 5% 0 5%;
+	border-color: #f25923;
+
+}
+
+
+.filler {
+	height: 630px;
+}
+
+footer {
+	margin: 0;
+	background-color: #fff;
+	height: 250px;
+}
+
+.footer-ul {
+	margin: 45px 0 0 450px;
+	display: inline-block;
+}
+
+.footer-li {
+	color:  #f25923;
+	display: inline-block;
+	margin: 0 30px 0 30px;
+}
+
+.social {
+	margin: 45px 0 0 425px;
+	display: inline-block;
+}
+
+.icon {
+	color: #353535;
+	text-align: center;
+	font-size: 13px;
+	display: inline-block;
+	margin-left: 80px;
+}
+
+.icons {
+	width: 45px;
+}
+
+.copyright {
+	color: #353535;
+	margin-left: 42%;
+	margin-top: 30px;
+}
+
+.footbar:visited {
+	color: #f25923;
+}
