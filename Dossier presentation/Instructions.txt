@@ -1,0 +1,91 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : presentation.indd
+
+DATE D'ASSEMBLAGE : 14/12/2016 13:46
+Date de création : 14/12/2016
+Date de modification : 14/12/2016
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Page4, 5, 6
+
+POLICES
+4 Police(s) utilisée(s); 0 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : AvenirLTStd-Black; Type : OpenType Type 1, Etat : OK
+- Nom : AvenirLTStd-Light; Type : OpenType Type 1, Etat : OK
+- Nom : AvenirLTStd-Medium; Type : OpenType Type 1, Etat : OK
+- Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 71,565; Lignes/pouce : 63,245
+- Nom et type : Magenta quadri; Angle : 18,434; Lignes/pouce : 63,245
+- Nom et type : Jaune quadri; Angle : 0,000; Lignes/pouce : 66,666
+- Nom et type : Noir quadri; Angle : 45,000; Lignes/pouce : 70,710
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 17 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible(s)
+Images : 0 Incorporé(e)(s), 17 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : Adobe PDF, (Adobe PDF)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Non
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 px, 0 px, 0 px, 0 px
+Couleur : CMJN composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : 1366 x 768
+Dimensions du papier : 595,22 px x 842 px
+Orientation : Portrait
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. presentation.indd; type : Composition Adobe InDesign; taille : 2976K
+2. presentation.idml; type : Document InDesign Markup; taille : 154K
+3. presentation.pdf; type : Document Adobe Acrobat; taille : 1677K
+4. AvenirLTStd-Black.otf; type : Fichier de polices; taille : 27K
+5. AvenirLTStd-Light.otf; type : Fichier de polices; taille : 26K
+6. AvenirLTStd-Medium.otf; type : Fichier de polices; taille : 26K
+7. MinionPro-Regular.otf; type : Fichier de polices; taille : 213K
