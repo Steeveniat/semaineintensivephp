@@ -1,0 +1,1 @@
+DELETE FROM `pokemon` WHERE `visible` = 0;
